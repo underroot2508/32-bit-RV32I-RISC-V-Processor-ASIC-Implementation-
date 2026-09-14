@@ -1,0 +1,34 @@
+# OpenLane generated files
+runs/
+openlane/runs/
+
+# Original local OpenLane source/config
+src/
+config.json
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Editor files
+.vscode/# OpenLane generated files
+runs/
+openlane/runs/
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Editor files
+.vscode/runs/
+*.log
+*.tmp
+*.swp
+*.bak
+
+# OpenLane intermediate files
+openlane/runs/
